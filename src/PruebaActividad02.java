@@ -154,7 +154,7 @@ public class PruebaActividad02 {
 			System.out.println("1) Cargar BD de peliculas");
 			System.out.println("2) Rentar pelicula");
 			System.out.println("3) Devolver pelicula");
-			System.out.println("4) Mostrar cantidad de peluculas disponibles");
+			System.out.println("4) Mostrar cantidad de peliculas disponibles");
 			System.out.println("5) Salir");
 			System.out.println("Introduce opcion: ");
 			opcion = entrada.nextInt();
@@ -205,7 +205,7 @@ public class PruebaActividad02 {
 			System.out.println("1) Cargar BD de peliculas");
 			System.out.println("2) Rentar pelicula");
 			System.out.println("3) Devolver pelicula");
-			System.out.println("4) Mostrar cantidad de peluculas disponibles");
+			System.out.println("4) Mostrar cantidad de peliculas disponibles");
 			System.out.println("5) Salir");
 			System.out.println("Introduce opcion: ");
 			opcion = entrada.nextInt();
